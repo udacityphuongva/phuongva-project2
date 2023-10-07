@@ -17,7 +17,7 @@ EC2 resources: Autoscaling group with EC2 instances, Load Balancer, Security Gro
 
 Static Content: S3 bucket
 
-# Usage:
+## Usage:
 Deploy:./run.sh deploy us-east-1 udagram-infra udagram.yml udagram-parameters.json
 
 Delete:./run.sh delete us-east-1 udagram-infra
